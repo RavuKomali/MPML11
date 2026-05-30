@@ -1,0 +1,14 @@
+pandas
+numpy
+scikit-learn==0.23.1
+flask
+tensorflow
+keras
+matplotlib
+seaborn
+os
+warnings
+xgboost
+
+
+activate tsf
