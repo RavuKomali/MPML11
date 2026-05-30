@@ -1,0 +1,23 @@
+# Autism Spectrum Disorder Prediction
+
+## Project Overview
+This project predicts Autism Spectrum Disorder using Machine Learning algorithms.
+
+## Technologies Used
+- Python
+- Machine Learning
+- Scikit-learn
+- Pandas
+- NumPy
+
+## Algorithms
+- Random Forest
+- Support Vector Machine (SVM)
+
+## Files
+- app.py
+- RandomForest.pkl
+- svm.pkl
+- model/
+- templates/
+- static/
